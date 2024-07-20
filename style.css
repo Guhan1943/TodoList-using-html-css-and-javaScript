@@ -1,0 +1,17 @@
+.section{
+    padding: 200px 300px;
+}
+#addin{
+    width: 100%;
+}
+.add{
+    width: 100%;
+}
+.row
+{
+    padding: 20px;
+}
+#added{
+    border: 1px black solid;
+    width: 100%;
+}
